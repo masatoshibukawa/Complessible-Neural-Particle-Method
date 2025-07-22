@@ -1,4 +1,5 @@
 # Compressible Neural Particle Method (cNPM)
+[![DOI](https://zenodo.org/badge/1024126343.svg)](https://doi.org/10.5281/zenodo.16310223)
 ## Overview
 A PyTorch implementation of Neural Particle Methods for fluid dynamics simulations, including both incompressible (NPM) and compressible (cNPM) formulations for dam break scenarios.
 The code supports:
