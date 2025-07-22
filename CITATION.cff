@@ -1,0 +1,8 @@
+cff-version: 1.0.0
+message: "Cite as"
+authors:
+  - family-names: Shibukawa
+    given-names: Masato
+    orcid: https://orcid.org/0009-0004-0645-4246
+title: "Complessible-Neural-Particle-Method"
+doi: 
