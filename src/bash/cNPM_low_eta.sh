@@ -1,0 +1,15 @@
+python main.py \
+    --database_path ./database \
+    --dt 0.01 \
+    --t_max 20 \
+    --L 0.1 \
+    --H 0.2 \
+    --dl 0.005 \
+    --epoch 12000 \
+    --refine_times 4 \
+    --hidden_layers 50 50 50 50 \
+    --early_stopping_flg 0 \
+    --result_directory_name cNPM_low_eta \
+    --model cNPM \
+    --tl_flg 1 \
+    --eta 0.0001 \

@@ -1,0 +1,14 @@
+python main.py \
+    --dt 0.01 \
+    --t_max 30 \
+    --L 0.146 \
+    --H 0.292 \
+    --dl 0.0073 \
+    --epoch 12000 \
+    --refine_times 4 \
+    --hidden_layers 50 50 50 50 \
+    --result_directory_name NPM \
+    --model NPM \
+    --database_path ./database \
+    --tl_flg 0 \
+    --early_stopping_flg 0 \
